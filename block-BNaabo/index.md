@@ -21,4 +21,5 @@ Q. add express.static() as middleware
 - now request from browser on `/images/img1.jpg`
 - see whether img1.jpg is being served or not ?
 
+
 2. Add css in public and check whether accessible or not.
