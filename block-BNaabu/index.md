@@ -21,4 +21,5 @@ app.use((req, res, next) => {
   // other let it pass to next middleware by simply calling next()
   next();
 });
+
 ```
