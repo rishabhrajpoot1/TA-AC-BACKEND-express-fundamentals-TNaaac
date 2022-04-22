@@ -14,3 +14,4 @@ res.cookie("username", "suraj");
 2. Fetch all cookies from request in next middleware.
 
 3. Add morgan as middleware to get logs for each request.
+
